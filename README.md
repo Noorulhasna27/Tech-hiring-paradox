@@ -30,8 +30,8 @@ Is tech unemployment driven by a shortage of job openings, or by a structural mi
 | Logistic Regression | 86.5% | 82.6% | 94.5% |
 | Decision Tree | 86.8% | 87.4% | 87.8% |
 
-![Confusion matrices](images/model_confusion_matrices.png)
-![Feature importance](images/model_feature_importance.png)
+![Confusion matrices](Dashboard/model_confusion_matrices.png)
+![Feature importance](Dashboard/model_feature_importance.png)
 
 ## Repo Structure
 - `src/`: scraping (`webScraping.py`) and cleaning (`cleaned.py`) scripts
